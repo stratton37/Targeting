@@ -2,5 +2,5 @@
 import pandas as pd
 import numpy as np
 train = pd.read_csv(r'C:\Users\Nazanin.Jazayeri\Desktop\Kaggle - Directmail\input\train.csv')
-#test = pd.read_csv(r'C:\Users\Nazanin.Jazayeri\Desktop\Kaggle - Directmail\input\test.csv')
-#tandt = pd.concat([train, test], axis=0)
+test = pd.read_csv(r'C:\Users\Nazanin.Jazayeri\Desktop\Kaggle - Directmail\input\test.csv')
+tandt = pd.concat([train, test], axis=0)
