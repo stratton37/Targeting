@@ -1,6 +1,1 @@
-# Targetinig -Nazanin is adding the Code:
-import pandas as pd
-import numpy as np
-train = pd.read_csv(r'C:\Users\Nazanin.Jazayeri\Desktop\Kaggle - Directmail\input\train.csv')
-test = pd.read_csv(r'C:\Users\Nazanin.Jazayeri\Desktop\Kaggle - Directmail\input\test.csv')
-tandt = pd.concat([train, test], axis=0)
+# Targetinig-This is a kaggle competition - You can read more about this competition and it's task in Kaggle website. The name of the competition is            "Springleaf Marketing Response"
